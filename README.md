@@ -701,3 +701,10 @@ while(true)
 	cout << "Hello GeeksforGeeks..." << endl; 
 return 0; 
 } 
+
+#Priority Queue
+Priority queues are a type of container adapters, specifically designed such that the first element of the queue is the greatest of all elements in the queue and elements are in non increasing order (hence we can see that each element of the queue has a priority {fixed order}).
+priority_queue<int> maxHeap; 
+priority_queue<int,vector<int>,greater<int>> minHeap;
+
+

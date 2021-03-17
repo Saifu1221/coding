@@ -708,3 +708,8 @@ priority_queue<int> maxHeap;
 priority_queue<int,vector<int>,greater<int>> minHeap;
 
 
+##########################Open text#########################
+1. Linked list finding and counting loop length, running code.
+2. What is iterator how internally it works
+3. Issue with collection while using multi threading
+4. How can exectue three threads one by one

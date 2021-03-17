@@ -713,3 +713,5 @@ priority_queue<int,vector<int>,greater<int>> minHeap;
 2. What is iterator how internally it works
 3. Issue with collection while using multi threading
 4. How can exectue three threads one by one
+5. Fail Fast and Fail Safe Iterators in Java
+
